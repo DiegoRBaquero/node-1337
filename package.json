@@ -1,0 +1,23 @@
+{
+  "name": "1337",
+  "version": "0.0.0",
+  "description": "1337 Converts your text into leet speak",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DiegoRBaquero/node-1337.git"
+  },
+  "keywords": [
+    "1337",
+    "leet"
+  ],
+  "author": "Diego Rodríguez Baquero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiegoRBaquero/node-1337/issues"
+  },
+  "homepage": "https://github.com/DiegoRBaquero/node-1337#readme"
+}
