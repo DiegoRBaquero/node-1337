@@ -12,12 +12,20 @@
   },
   "keywords": [
     "1337",
-    "leet"
+    "leet",
+    "leetspeak",
+    "l33t"
   ],
   "author": "Diego Rodríguez Baquero",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/DiegoRBaquero/node-1337/issues"
   },
-  "homepage": "https://github.com/DiegoRBaquero/node-1337#readme"
+  "homepage": "https://github.com/DiegoRBaquero/node-1337",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  },
+  "bin": {
+    "l33t": "./bin/cmd.js"
+  }
 }
