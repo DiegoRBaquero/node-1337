@@ -1,6 +1,6 @@
 {
   "name": "1337",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "1337 Converts your text into leet speak",
   "main": "index.js",
   "scripts": {
