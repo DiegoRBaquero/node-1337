@@ -14,7 +14,7 @@ To install as a CLI program
 npm install 1337 -g
 ```
 
- ## Usage
+## Usage
  In node or the browser with require('1337)
 
 ```js
