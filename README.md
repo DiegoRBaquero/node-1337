@@ -1,6 +1,8 @@
 # node-1337
 #### 1337 Converts your text into leet speak
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DiegoRBaquero/node-1337.svg)](https://greenkeeper.io/)
+
 ## Installation
 To install 1337 for use in node or the browser with require('1337')
 
