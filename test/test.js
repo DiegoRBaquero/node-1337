@@ -1,5 +1,5 @@
 var test = require('tape')
-var l33t = require('./')
+var l33t = require('./../index')
 
 test('Leetspeak', function (t) {
   t.equal(l33t('Leetspeak'), '13375p34k')
