@@ -18,7 +18,7 @@ npm install 1337 -g
  In node or the browser with require('1337)
 
 ```js
-var l33t = require('1337')
+const l33t = require('1337')
  
 console.log(l33t("Leetspeak")) // Outputs 13375p34k
 ```
