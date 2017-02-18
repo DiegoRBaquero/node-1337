@@ -1,5 +1,5 @@
-# node-1337
-#### 1337 Converts your text into leet speak
+# 1337 [![npm](https://img.shields.io/npm/v/1337.svg)](https://npmjs.org/package/1337) [![downloads](https://img.shields.io/npm/dm/1337.svg)](https://npmjs.org/package/1337) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) [![npm](https://img.shields.io/npm/l/1337.svg)](LICENSE)
+#### Convert your text into leet speak
 
 ## Installation
 To install 1337 for use in node or the browser with require('1337')
