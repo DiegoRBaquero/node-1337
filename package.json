@@ -1,7 +1,7 @@
 {
   "name": "1337",
   "description": "1337 Converts your text into leet speak",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Diego Rodríguez Baquero",
   "bin": {
     "l33t": "./bin/l33t"
