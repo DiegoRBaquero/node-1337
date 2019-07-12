@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "bogota": "^2.0.4",
-    "standard": "^11.0.0",
+    "standard": "^13.0.1",
     "tape": "^4.6.3"
   },
   "homepage": "https://github.com/DiegoRBaquero/node-1337",
