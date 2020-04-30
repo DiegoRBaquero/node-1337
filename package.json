@@ -10,9 +10,9 @@
     "url": "https://github.com/DiegoRBaquero/node-1337/issues"
   },
   "devDependencies": {
-    "bogota": "^2.0.4",
-    "standard": "^14.0.0",
-    "tape": "^4.6.3"
+    "bogota": "2.0.4",
+    "standard": "14.3.3",
+    "tape": "4.13.2"
   },
   "homepage": "https://github.com/DiegoRBaquero/node-1337",
   "keywords": [
